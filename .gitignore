@@ -1,0 +1,4 @@
+.RData
+.Rhistory
+.ipynb_checkponits
+data/wrf_out.nc
